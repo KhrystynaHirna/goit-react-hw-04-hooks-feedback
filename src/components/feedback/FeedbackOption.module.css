@@ -1,0 +1,19 @@
+.list {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+}
+
+.item {
+  margin-right: 15px;
+}
+.button {
+  width: 90px;
+  height: 40px;
+  background-color: cadetblue;
+  border-color: transparent;
+  box-shadow: 2px 1px 8px rgb(133, 130, 130);
+  border-radius: 2px;
+  cursor: pointer;
+}
